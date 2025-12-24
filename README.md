@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me insta-rahul.singh_04
 - 😄 Pronouns: HE\HIM
-- ⚡ Fun fact: Im new
 
 <!---
 rahulsingh0408/rahulsingh0408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
